@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(79, 79, 239);
+}
+
+h2, p#ShapeDisc {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(79, 79, 239);
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+ul {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(79, 79, 239);
+}
+
+.tab-pane {
+  height: auto;
+  width: auto;
+}
+
+.tab-content {
+  width: 100%;
+  height: 100%;
+}
+
+iframe {
+  margin: 0;
+  border: 0px;
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  position: absolute;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  background-color: #1e1f20;
+}
+
+label#R {
+  color: red;
+}
+
+label#G {
+  color: green;
+}
+
+label#B {
+  color: blue;
+}/*# sourceMappingURL=styles.css.map */
